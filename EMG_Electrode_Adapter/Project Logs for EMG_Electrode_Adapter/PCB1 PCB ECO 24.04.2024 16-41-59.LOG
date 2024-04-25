@@ -1,0 +1,41 @@
+Change Component Footprint: Designator=P1 Old Footprint=61301621121 New Footprint=61301621121
+Added Component: Designator=J6(SJ23593DSMTTR)
+Add component (AddParameter): Name = "Arrow_Part_Number"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow_Price-Stock"; Value = "https://www.arrow.com/en/products/sj2-3593d-smt-tr/cui-devices?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Part_Number"; Value = "490-SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Price-Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SJ2-3593D-SMT-TR?qs=DXv0QSHKF4wWj2AnIqZJhQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SJ23593DSMTTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Added Component: Designator=J9(SJ23593DSMTTR)
+Add component (AddParameter): Name = "Arrow_Part_Number"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow_Price-Stock"; Value = "https://www.arrow.com/en/products/sj2-3593d-smt-tr/cui-devices?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Part_Number"; Value = "490-SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Price-Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SJ2-3593D-SMT-TR?qs=DXv0QSHKF4wWj2AnIqZJhQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SJ23593DSMTTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_21 Pin=J6-1
+Added Pin To Net: NetName=NetC1_22 Pin=J6-2
+Added Pin To Net: NetName=NetJ6_3 Pin=J6-3
+Added Pin To Net: NetName=NetC1_15 Pin=J9-1
+Added Pin To Net: NetName=NetC1_16 Pin=J9-2
+Added Pin To Net: NetName=NetJ9_3 Pin=J9-3
+Added Member To Class: ClassName=EMG_Electrode_Adapter Member=Component J6 Phone Connectors 3.5mm Audio Jack SMT 3cond Tip/Ring swtch   Source:  Datasheet
+Added Member To Class: ClassName=EMG_Electrode_Adapter Member=Component J9 Phone Connectors 3.5mm Audio Jack SMT 3cond Tip/Ring swtch   Source:  Datasheet

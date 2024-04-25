@@ -1,0 +1,430 @@
+Added Component: Designator=C1(Male AFY5323)
+Added Component: Designator=J1(SJ23593DSMTTR)
+Add component (AddParameter): Name = "Arrow_Part_Number"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow_Price-Stock"; Value = "https://www.arrow.com/en/products/sj2-3593d-smt-tr/cui-devices?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Part_Number"; Value = "490-SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Price-Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SJ2-3593D-SMT-TR?qs=DXv0QSHKF4wWj2AnIqZJhQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SJ23593DSMTTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Added Component: Designator=J2(SJ23593DSMTTR)
+Add component (AddParameter): Name = "Arrow_Part_Number"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow_Price-Stock"; Value = "https://www.arrow.com/en/products/sj2-3593d-smt-tr/cui-devices?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Part_Number"; Value = "490-SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Price-Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SJ2-3593D-SMT-TR?qs=DXv0QSHKF4wWj2AnIqZJhQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SJ23593DSMTTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Added Component: Designator=J3(SJ23593DSMTTR)
+Add component (AddParameter): Name = "Arrow_Part_Number"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow_Price-Stock"; Value = "https://www.arrow.com/en/products/sj2-3593d-smt-tr/cui-devices?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Part_Number"; Value = "490-SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Price-Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SJ2-3593D-SMT-TR?qs=DXv0QSHKF4wWj2AnIqZJhQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SJ23593DSMTTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Added Component: Designator=J4(SJ23593DSMTTR)
+Add component (AddParameter): Name = "Arrow_Part_Number"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow_Price-Stock"; Value = "https://www.arrow.com/en/products/sj2-3593d-smt-tr/cui-devices?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Part_Number"; Value = "490-SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Price-Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SJ2-3593D-SMT-TR?qs=DXv0QSHKF4wWj2AnIqZJhQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SJ23593DSMTTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Added Component: Designator=J5(SJ23593DSMTTR)
+Add component (AddParameter): Name = "Arrow_Part_Number"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow_Price-Stock"; Value = "https://www.arrow.com/en/products/sj2-3593d-smt-tr/cui-devices?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Part_Number"; Value = "490-SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Price-Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SJ2-3593D-SMT-TR?qs=DXv0QSHKF4wWj2AnIqZJhQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SJ23593DSMTTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Added Component: Designator=J6(SJ23593DSMTTR)
+Add component (AddParameter): Name = "Arrow_Part_Number"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow_Price-Stock"; Value = "https://www.arrow.com/en/products/sj2-3593d-smt-tr/cui-devices?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Part_Number"; Value = "490-SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Price-Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SJ2-3593D-SMT-TR?qs=DXv0QSHKF4wWj2AnIqZJhQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SJ23593DSMTTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Added Component: Designator=J7(SJ23593DSMTTR)
+Add component (AddParameter): Name = "Arrow_Part_Number"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow_Price-Stock"; Value = "https://www.arrow.com/en/products/sj2-3593d-smt-tr/cui-devices?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Part_Number"; Value = "490-SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Price-Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SJ2-3593D-SMT-TR?qs=DXv0QSHKF4wWj2AnIqZJhQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SJ23593DSMTTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Added Component: Designator=J8(SJ23593DSMTTR)
+Add component (AddParameter): Name = "Arrow_Part_Number"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow_Price-Stock"; Value = "https://www.arrow.com/en/products/sj2-3593d-smt-tr/cui-devices?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Part_Number"; Value = "490-SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Price-Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SJ2-3593D-SMT-TR?qs=DXv0QSHKF4wWj2AnIqZJhQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SJ23593DSMTTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Added Component: Designator=J9(SJ23593DSMTTR)
+Add component (AddParameter): Name = "Arrow_Part_Number"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow_Price-Stock"; Value = "https://www.arrow.com/en/products/sj2-3593d-smt-tr/cui-devices?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Part_Number"; Value = "490-SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Price-Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SJ2-3593D-SMT-TR?qs=DXv0QSHKF4wWj2AnIqZJhQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SJ23593DSMTTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Added Component: Designator=J10(SJ23593DSMTTR)
+Add component (AddParameter): Name = "Arrow_Part_Number"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow_Price-Stock"; Value = "https://www.arrow.com/en/products/sj2-3593d-smt-tr/cui-devices?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Part_Number"; Value = "490-SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Price-Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SJ2-3593D-SMT-TR?qs=DXv0QSHKF4wWj2AnIqZJhQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SJ23593DSMTTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Added Component: Designator=J11(SJ23593DSMTTR)
+Add component (AddParameter): Name = "Arrow_Part_Number"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow_Price-Stock"; Value = "https://www.arrow.com/en/products/sj2-3593d-smt-tr/cui-devices?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Part_Number"; Value = "490-SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Price-Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SJ2-3593D-SMT-TR?qs=DXv0QSHKF4wWj2AnIqZJhQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SJ23593DSMTTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Added Component: Designator=J12(SJ23593DSMTTR)
+Add component (AddParameter): Name = "Arrow_Part_Number"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow_Price-Stock"; Value = "https://www.arrow.com/en/products/sj2-3593d-smt-tr/cui-devices?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Part_Number"; Value = "490-SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Price-Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SJ2-3593D-SMT-TR?qs=DXv0QSHKF4wWj2AnIqZJhQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SJ23593DSMTTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Added Component: Designator=J13(SJ23593DSMTTR)
+Add component (AddParameter): Name = "Arrow_Part_Number"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow_Price-Stock"; Value = "https://www.arrow.com/en/products/sj2-3593d-smt-tr/cui-devices?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Part_Number"; Value = "490-SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Price-Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SJ2-3593D-SMT-TR?qs=DXv0QSHKF4wWj2AnIqZJhQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SJ23593DSMTTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Added Component: Designator=J14(SJ23593DSMTTR)
+Add component (AddParameter): Name = "Arrow_Part_Number"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow_Price-Stock"; Value = "https://www.arrow.com/en/products/sj2-3593d-smt-tr/cui-devices?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Part_Number"; Value = "490-SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Price-Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SJ2-3593D-SMT-TR?qs=DXv0QSHKF4wWj2AnIqZJhQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SJ23593DSMTTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Added Component: Designator=J15(SJ23593DSMTTR)
+Add component (AddParameter): Name = "Arrow_Part_Number"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow_Price-Stock"; Value = "https://www.arrow.com/en/products/sj2-3593d-smt-tr/cui-devices?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Part_Number"; Value = "490-SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Price-Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SJ2-3593D-SMT-TR?qs=DXv0QSHKF4wWj2AnIqZJhQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SJ23593DSMTTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Added Component: Designator=J16(SJ23593DSMTTR)
+Add component (AddParameter): Name = "Arrow_Part_Number"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow_Price-Stock"; Value = "https://www.arrow.com/en/products/sj2-3593d-smt-tr/cui-devices?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Part_Number"; Value = "490-SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser_Price-Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SJ2-3593D-SMT-TR?qs=DXv0QSHKF4wWj2AnIqZJhQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SJ23593DSMTTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Arrow Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "SJ2-3593D-SMT-TR"; VariantName = "[No Variations]"
+Added Component: Designator=P1(61301621121)
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "5.9944mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.89mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "32855550"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=J16-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=J16-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC1_3 Pin=C1-3
+Added Pin To Net: NetName=NetC1_3 Pin=J15-1
+Added Net: Name=NetC1_3
+Added Pin To Net: NetName=NetC1_4 Pin=C1-4
+Added Pin To Net: NetName=NetC1_4 Pin=J15-2
+Added Net: Name=NetC1_4
+Added Pin To Net: NetName=NetC1_5 Pin=C1-5
+Added Pin To Net: NetName=NetC1_5 Pin=J14-1
+Added Net: Name=NetC1_5
+Added Pin To Net: NetName=NetC1_6 Pin=C1-6
+Added Pin To Net: NetName=NetC1_6 Pin=J14-2
+Added Net: Name=NetC1_6
+Added Pin To Net: NetName=NetC1_7 Pin=C1-7
+Added Pin To Net: NetName=NetC1_7 Pin=J13-1
+Added Net: Name=NetC1_7
+Added Pin To Net: NetName=NetC1_8 Pin=C1-8
+Added Pin To Net: NetName=NetC1_8 Pin=J13-2
+Added Net: Name=NetC1_8
+Added Pin To Net: NetName=NetC1_9 Pin=C1-9
+Added Pin To Net: NetName=NetC1_9 Pin=J12-1
+Added Net: Name=NetC1_9
+Added Pin To Net: NetName=NetC1_10 Pin=C1-10
+Added Pin To Net: NetName=NetC1_10 Pin=J12-2
+Added Net: Name=NetC1_10
+Added Pin To Net: NetName=NetC1_11 Pin=C1-11
+Added Pin To Net: NetName=NetC1_11 Pin=J11-1
+Added Net: Name=NetC1_11
+Added Pin To Net: NetName=NetC1_12 Pin=C1-12
+Added Pin To Net: NetName=NetC1_12 Pin=J11-2
+Added Net: Name=NetC1_12
+Added Pin To Net: NetName=NetC1_13 Pin=C1-13
+Added Pin To Net: NetName=NetC1_13 Pin=J10-1
+Added Net: Name=NetC1_13
+Added Pin To Net: NetName=NetC1_14 Pin=C1-14
+Added Pin To Net: NetName=NetC1_14 Pin=J10-2
+Added Net: Name=NetC1_14
+Added Pin To Net: NetName=NetC1_15 Pin=C1-15
+Added Pin To Net: NetName=NetC1_15 Pin=J9-1
+Added Net: Name=NetC1_15
+Added Pin To Net: NetName=NetC1_16 Pin=C1-16
+Added Pin To Net: NetName=NetC1_16 Pin=J9-2
+Added Net: Name=NetC1_16
+Added Pin To Net: NetName=NetC1_17 Pin=C1-17
+Added Pin To Net: NetName=NetC1_17 Pin=J8-1
+Added Net: Name=NetC1_17
+Added Pin To Net: NetName=NetC1_18 Pin=C1-18
+Added Pin To Net: NetName=NetC1_18 Pin=J8-2
+Added Net: Name=NetC1_18
+Added Pin To Net: NetName=NetC1_19 Pin=C1-19
+Added Pin To Net: NetName=NetC1_19 Pin=J7-1
+Added Net: Name=NetC1_19
+Added Pin To Net: NetName=NetC1_20 Pin=C1-20
+Added Pin To Net: NetName=NetC1_20 Pin=J7-2
+Added Net: Name=NetC1_20
+Added Pin To Net: NetName=NetC1_21 Pin=C1-21
+Added Pin To Net: NetName=NetC1_21 Pin=J6-1
+Added Net: Name=NetC1_21
+Added Pin To Net: NetName=NetC1_22 Pin=C1-22
+Added Pin To Net: NetName=NetC1_22 Pin=J6-2
+Added Net: Name=NetC1_22
+Added Pin To Net: NetName=NetC1_23 Pin=C1-23
+Added Pin To Net: NetName=NetC1_23 Pin=J5-1
+Added Net: Name=NetC1_23
+Added Pin To Net: NetName=NetC1_24 Pin=C1-24
+Added Pin To Net: NetName=NetC1_24 Pin=J5-2
+Added Net: Name=NetC1_24
+Added Pin To Net: NetName=NetC1_25 Pin=C1-25
+Added Pin To Net: NetName=NetC1_25 Pin=J4-1
+Added Net: Name=NetC1_25
+Added Pin To Net: NetName=NetC1_26 Pin=C1-26
+Added Pin To Net: NetName=NetC1_26 Pin=J4-2
+Added Net: Name=NetC1_26
+Added Pin To Net: NetName=NetC1_27 Pin=C1-27
+Added Pin To Net: NetName=NetC1_27 Pin=J3-1
+Added Net: Name=NetC1_27
+Added Pin To Net: NetName=NetC1_28 Pin=C1-28
+Added Pin To Net: NetName=NetC1_28 Pin=J3-2
+Added Net: Name=NetC1_28
+Added Pin To Net: NetName=NetC1_29 Pin=C1-29
+Added Pin To Net: NetName=NetC1_29 Pin=J2-1
+Added Net: Name=NetC1_29
+Added Pin To Net: NetName=NetC1_30 Pin=C1-30
+Added Pin To Net: NetName=NetC1_30 Pin=J2-2
+Added Net: Name=NetC1_30
+Added Pin To Net: NetName=NetC1_31 Pin=C1-31
+Added Pin To Net: NetName=NetC1_31 Pin=J1-1
+Added Net: Name=NetC1_31
+Added Pin To Net: NetName=NetC1_32 Pin=C1-32
+Added Pin To Net: NetName=NetC1_32 Pin=J1-2
+Added Net: Name=NetC1_32
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_3 Pin=P1-15
+Added Net: Name=NetJ1_3
+Added Pin To Net: NetName=NetJ2_3 Pin=J2-3
+Added Pin To Net: NetName=NetJ2_3 Pin=P1-13
+Added Net: Name=NetJ2_3
+Added Pin To Net: NetName=NetJ3_3 Pin=J3-3
+Added Pin To Net: NetName=NetJ3_3 Pin=P1-11
+Added Net: Name=NetJ3_3
+Added Pin To Net: NetName=NetJ4_3 Pin=J4-3
+Added Pin To Net: NetName=NetJ4_3 Pin=P1-9
+Added Net: Name=NetJ4_3
+Added Pin To Net: NetName=NetJ5_3 Pin=J5-3
+Added Pin To Net: NetName=NetJ5_3 Pin=P1-7
+Added Net: Name=NetJ5_3
+Added Pin To Net: NetName=NetJ6_3 Pin=J6-3
+Added Pin To Net: NetName=NetJ6_3 Pin=P1-5
+Added Net: Name=NetJ6_3
+Added Pin To Net: NetName=NetJ7_3 Pin=J7-3
+Added Pin To Net: NetName=NetJ7_3 Pin=P1-3
+Added Net: Name=NetJ7_3
+Added Pin To Net: NetName=NetJ8_3 Pin=J8-3
+Added Pin To Net: NetName=NetJ8_3 Pin=P1-1
+Added Net: Name=NetJ8_3
+Added Pin To Net: NetName=NetJ9_3 Pin=J9-3
+Added Pin To Net: NetName=NetJ9_3 Pin=P1-2
+Added Net: Name=NetJ9_3
+Added Pin To Net: NetName=NetJ10_3 Pin=J10-3
+Added Pin To Net: NetName=NetJ10_3 Pin=P1-4
+Added Net: Name=NetJ10_3
+Added Pin To Net: NetName=NetJ11_3 Pin=J11-3
+Added Pin To Net: NetName=NetJ11_3 Pin=P1-6
+Added Net: Name=NetJ11_3
+Added Pin To Net: NetName=NetJ12_3 Pin=J12-3
+Added Pin To Net: NetName=NetJ12_3 Pin=P1-8
+Added Net: Name=NetJ12_3
+Added Pin To Net: NetName=NetJ13_3 Pin=J13-3
+Added Pin To Net: NetName=NetJ13_3 Pin=P1-10
+Added Net: Name=NetJ13_3
+Added Pin To Net: NetName=NetJ14_3 Pin=J14-3
+Added Pin To Net: NetName=NetJ14_3 Pin=P1-12
+Added Net: Name=NetJ14_3
+Added Pin To Net: NetName=NetJ15_3 Pin=J15-3
+Added Pin To Net: NetName=NetJ15_3 Pin=P1-14
+Added Net: Name=NetJ15_3
+Added Pin To Net: NetName=NetJ16_3 Pin=J16-3
+Added Pin To Net: NetName=NetJ16_3 Pin=P1-16
+Added Net: Name=NetJ16_3
+Added Class: Name=EMG_Electrode_Adapter

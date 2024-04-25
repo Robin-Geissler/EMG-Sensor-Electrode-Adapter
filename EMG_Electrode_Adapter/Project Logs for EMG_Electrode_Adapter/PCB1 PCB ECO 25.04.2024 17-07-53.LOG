@@ -1,0 +1,46 @@
+Change Net Name : Old Net Name=NetJ16_3 New Net Name=Ring16
+Added Pin To Net: NetName=Ring1 Pin=J1-3
+Added Pin To Net: NetName=Ring1 Pin=P1-1
+Added Net: Name=Ring1
+Added Pin To Net: NetName=Ring2 Pin=J2-3
+Added Pin To Net: NetName=Ring2 Pin=P1-2
+Added Net: Name=Ring2
+Added Pin To Net: NetName=Ring3 Pin=J3-3
+Added Pin To Net: NetName=Ring3 Pin=P1-3
+Added Net: Name=Ring3
+Added Pin To Net: NetName=Ring4 Pin=J4-3
+Added Pin To Net: NetName=Ring4 Pin=P1-4
+Added Net: Name=Ring4
+Added Pin To Net: NetName=Ring5 Pin=J5-3
+Added Pin To Net: NetName=Ring5 Pin=P1-5
+Added Net: Name=Ring5
+Added Pin To Net: NetName=Ring6 Pin=J6-3
+Added Pin To Net: NetName=Ring6 Pin=P1-6
+Added Net: Name=Ring6
+Added Pin To Net: NetName=Ring7 Pin=J7-3
+Added Pin To Net: NetName=Ring7 Pin=P1-7
+Added Net: Name=Ring7
+Added Pin To Net: NetName=Ring8 Pin=J8-3
+Added Pin To Net: NetName=Ring8 Pin=P1-8
+Added Net: Name=Ring8
+Added Pin To Net: NetName=Ring9 Pin=J9-3
+Added Pin To Net: NetName=Ring9 Pin=P1-9
+Added Net: Name=Ring9
+Added Pin To Net: NetName=Ring10 Pin=J10-3
+Added Pin To Net: NetName=Ring10 Pin=P1-10
+Added Net: Name=Ring10
+Added Pin To Net: NetName=Ring11 Pin=J11-3
+Added Pin To Net: NetName=Ring11 Pin=P1-11
+Added Net: Name=Ring11
+Added Pin To Net: NetName=Ring12 Pin=J12-3
+Added Pin To Net: NetName=Ring12 Pin=P1-12
+Added Net: Name=Ring12
+Added Pin To Net: NetName=Ring13 Pin=J13-3
+Added Pin To Net: NetName=Ring13 Pin=P1-13
+Added Net: Name=Ring13
+Added Pin To Net: NetName=Ring14 Pin=J14-3
+Added Pin To Net: NetName=Ring14 Pin=P1-14
+Added Net: Name=Ring14
+Added Pin To Net: NetName=Ring15 Pin=J15-3
+Added Pin To Net: NetName=Ring15 Pin=P1-15
+Added Net: Name=Ring15
