@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Projects\emg-sensor-electrode-adapter\EMG_Electrode_Adapter\PCB1.PcbDoc
 Date     : 06.05.2024
-Time     : 09:08:19
+Time     : 09:42:55
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -33,12 +33,8 @@ Rule Violations :0
 Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
 Rule Violations :0
 
-Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
-   Violation between Silk To Silk Clearance Constraint: (0.195mm < 0.254mm) Between Text "1" (38.306mm,37.112mm) on Flex Top Overlay And Track (39.016mm,36.297mm)(39.016mm,41.527mm) on Flex Top Overlay Silk Text to Silk Clearance [0.195mm]
-   Violation between Silk To Silk Clearance Constraint: (0.134mm < 0.254mm) Between Text "15" (59.946mm,37.112mm) on Flex Top Overlay And Track (59.636mm,36.297mm)(59.636mm,41.527mm) on Flex Top Overlay Silk Text to Silk Clearance [0.134mm]
-   Violation between Silk To Silk Clearance Constraint: (0.134mm < 0.254mm) Between Text "16" (59.946mm,39.812mm) on Flex Top Overlay And Track (59.636mm,36.297mm)(59.636mm,41.527mm) on Flex Top Overlay Silk Text to Silk Clearance [0.134mm]
-   Violation between Silk To Silk Clearance Constraint: (0.157mm < 0.254mm) Between Text "2" (38.006mm,39.812mm) on Flex Top Overlay And Track (39.016mm,36.297mm)(39.016mm,41.527mm) on Flex Top Overlay Silk Text to Silk Clearance [0.157mm]
-Rule Violations :4
+Processing Rule : Silk to Silk (Clearance=0.126mm) (All),(All)
+Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
@@ -47,6 +43,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 4
+Violations Detected : 0
 Waived Violations : 0
 Time Elapsed        : 00:00:02
