@@ -1,0 +1,36 @@
+# Altium Designer project files
+*.PrjPcbStructure
+*.PrjPcbState
+*.PrjPCB_Bak.zip
+*.SchDocPreview
+*.PcbDocPreview
+*.PrjFpgStructure
+*.PrjFpgState
+*.OutJob
+*.Gbl
+*.GBO
+*.GBS
+*.GBL
+*.GKO
+*.DRL
+*.EXL
+*.GTS
+*.GTL
+*.GTO
+*.REP
+*.SOM
+*.SOS
+*.STC
+*.STO
+*.log
+
+# Output files
+/Output/**
+/Project Logs/**
+/Generated/**
+/Compiled Output/**
+/Simulation Models/**
+/Backup/**
+/Autosave/**
+*.DsnBib
+
