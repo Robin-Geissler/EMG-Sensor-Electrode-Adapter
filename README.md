@@ -1,5 +1,5 @@
 # EMG Sensor Electrode Adapter
-This is an adapter for this Multichannel EMG Sensor: [Multichannel EMG Sensor](./../../../../emg-sensor_board) 
+This is an adapter for this Multichannel EMG Sensor: [Multichannel EMG Sensor](https://github.com/Robin-Geissler/EMG-Sensor-Board) 
 
 The adapter can be used to connect Audio Jack based electrodes to the multichannel EMG.
 
